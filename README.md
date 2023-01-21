@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um Rastreador de Habitos diarios.
 
-- [Projeto Finalizado]()
+- [Projeto Finalizado](https://gabrielsouza18.github.io/Habits/)
 
 
 --
